@@ -39,3 +39,6 @@ I’m a creative problem-solver with a passion for blending art, design, and tec
 
 *   **WATERBNB | Nov 2024**
     - **TECH STACK** - JavaScript | Express.js | Sequelize | SQLite3 | React | Redux
+    - Built a full-stack Airbnb-style platform that allows users to create spot listings, manage spots, and post reviews
+    - Created and managed relational databases with SQLite3, using Sequelize as an ORM to define models, handle migrations, and perform complex queries with ease and efficiency
+    - Implemented custom secure authentication using BCrypt for password hashing and Auth.js for session management, ensuring robust protection against unauthorized access and data breeches
