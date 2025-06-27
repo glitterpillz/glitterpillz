@@ -23,7 +23,7 @@ I’m a creative problem-solver with a passion for blending art, design, and tec
 
 *   **AUTHENTICATION & SECURITY** - Auth.js | Bcrypt | CORS | Jason Web Token (JWT)
 
-*   **TOOLS** - GitHub | VSCode | Postman | Insomnia | RESTful API | Alembic | Spring Initializr | IntelliJ IDEA
+*   **TOOLS** - GitHub | VSCode | Postman | Insomnia | RESTful API | Alembic | Maven | Spring Initializr | IntelliJ IDEA
 
 
 ### ✨ **Creative Projects**
