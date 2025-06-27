@@ -13,9 +13,9 @@ I’m a creative problem-solver with a passion for blending art, design, and tec
 
 
 ### 🎨 **Special Set of Skills**
-*   **LANGUAGES** - JavaScript | Python | HTML | CSS
+*   **LANGUAGES** - Java | JavaScript | Python | HTML | CSS
 
-*   **FRAMEWORKS & LIBRARIES** - Node.js | Next.js | Flask | Tailwind CSS | Express | React
+*   **FRAMEWORKS & LIBRARIES** - Node.js | Next.js | Flask | Tailwind CSS | Express | React | Spring Framework
 
 *   **DATABASES & ORMS** - PostgreSQL | SQLite3 | SQLAlchemy | Sequelize
 
@@ -23,7 +23,7 @@ I’m a creative problem-solver with a passion for blending art, design, and tec
 
 *   **AUTHENTICATION & SECURITY** - Auth.js | Bcrypt | CORS | Jason Web Token (JWT)
 
-*   **TOOLS** - GitHub | VSCode | Postman | Insomnia | RESTful API | Alembic
+*   **TOOLS** - GitHub | VSCode | Postman | Insomnia | RESTful API | Alembic | Spring Initializr | IntelliJ IDEA
 
 
 ### ✨ **Creative Projects**
